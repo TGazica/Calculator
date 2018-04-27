@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="addButtonText">+</string>
+    <string name="subtractButtonText">-</string>
+    <string name="multiplyButtonText">*</string>
+    <string name="edittext_firstNumber_hint">First number</string>
+    <string name="edittext_secondNumber_hint">Second number</string>
+    <string name="textview_resultText">Result</string>
+    <string name="divideButtonText">/</string>
+</resources>
